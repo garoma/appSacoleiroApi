@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+    <File Path="importante.txt" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="appSacoleiro.Application/appSacoleiro.Application.csproj" />
+    <Project Path="appSacoleiro.Domain/appSacoleiro.Domain.csproj" />
+    <Project Path="appSacoleiro.Infrastructure/appSacoleiro.Infrastructure.csproj" />
+    <Project Path="appSacoleiro.Shared/appSacoleiro.Shared.csproj" />
+    <Project Path="appSacoleiro.API/appSacoleiro.API.csproj" />
+  </Folder>
+</Solution>

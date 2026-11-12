@@ -1,0 +1,11 @@
+# Arquivos temporários do Visual Studio
+.vs/
+**/.vs/
+
+# Arquivos de compilação do .NET
+**/bin/
+**/obj/
+
+# Configurações locais e segredos
+appsettings.Development.json
+secrets.json

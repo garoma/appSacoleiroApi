@@ -1,0 +1,19 @@
+
+{
+  "email": "admin@jokerjeans.local",
+  "senha": "12345678"
+}
+
+
+
+{
+  "nome": "Calça Jeans Feminina joger",
+  "descricao": "Calça jeans feminina de cintura alta",
+  "preco": 99.90,
+  "categoria": "Calças"
+}
+
+
+{
+  "mensagem": "Quais produtos vocês vendem?"
+}
